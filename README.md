@@ -1,5 +1,7 @@
 # DeviceCommandApp_CA
 
+[この記事](https://qiita.com/nendocode/items/8d6a93315ba1e192f143)向け
+
 クリーンアーキテクチャで実装してみたサンプル
 
 ## 実行環境
