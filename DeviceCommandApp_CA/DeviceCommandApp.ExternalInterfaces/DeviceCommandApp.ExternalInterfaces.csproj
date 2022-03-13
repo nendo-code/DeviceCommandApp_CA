@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DeviceCommandApp.Controllers\DeviceCommandApp.Controllers.csproj" />
+    <ProjectReference Include="..\DeviceCommandApp.Util\DeviceCommandApp.Common.csproj" />
+  </ItemGroup>
+
+</Project>
